@@ -1,0 +1,5 @@
+c:\users\angel\documents\visual studio 2010\Projects\CowMultiplication\CowMultiplication\bin\Debug\CowMultiplication.exe
+c:\users\angel\documents\visual studio 2010\Projects\CowMultiplication\CowMultiplication\bin\Debug\CowMultiplication.pdb
+c:\users\angel\documents\visual studio 2010\Projects\CowMultiplication\CowMultiplication\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\angel\documents\visual studio 2010\Projects\CowMultiplication\CowMultiplication\obj\x86\Debug\CowMultiplication.exe
+c:\users\angel\documents\visual studio 2010\Projects\CowMultiplication\CowMultiplication\obj\x86\Debug\CowMultiplication.pdb
